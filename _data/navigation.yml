@@ -9,4 +9,12 @@ main:
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
-  #   url: /sitemap/
+  #   url: /sitemap/'
+# main links
+main:
+  - title: "개념"
+  url: /categories/
+  - title: "연도"
+  url: /posts/
+  - title: "소개"
+  url: /about/
